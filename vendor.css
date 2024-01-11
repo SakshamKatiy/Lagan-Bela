@@ -1,0 +1,11 @@
+.vendor_box_style{
+    background:#98bf21;
+    height:40em;
+    width:60em;
+    position:absolute;top:100px;left:300px;
+    transition: width 2s, height 2s, transform 2s;
+
+    /* transition-timing-function: ease-in-out; */
+}
+
+
